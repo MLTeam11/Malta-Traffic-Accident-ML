@@ -4,6 +4,7 @@
 **Institution:** University of Malta  
 **Deadline:** January 31, 2026  
 **Student:** Naomi Thornley and Giulia-Maria Montebonello 
+
 **Repository:** https://github.com/MLTeam11/Malta-Traffic-Accident-ML
 
 ## Project Overview
