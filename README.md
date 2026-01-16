@@ -105,7 +105,3 @@ This project addresses:
 - Temporal bias (night shift workers)
 - Proxy variables (location encoding socioeconomics)
 - Deployment risks (false negative vs. false positive costs)
-
-## License
-
-This project is submitted as coursework for ICS5110 Applied Machine Learning at the University of Malta.
