@@ -13,11 +13,9 @@ This project applies machine learning techniques to predict traffic accident sev
 
 ## Research Questions
 
-1. Can machine learning models predict accident severity categories (fatal, grievous, serious, slight) from textual accident reports?
-2. Which factors are most predictive of severe accidents in Malta - temporal, location, vehicle, or driver features?
-3. Do Malta and Gozo show similar accident patterns, or do they require separate analysis?
-4. To what extent does motorcycle involvement increase accident severity in Malta's traffic environment?
-5. Can we still make accurate predictions without complete weather data?
+1.	How accurately can machine learning predict whether an accident will result in minor or severe injuries?
+2.	Which features (time, location, vehicle type, weather) matter most for predicting accident severity?
+3.	Does motorcycle involvement increase the severity of accidents in Malta?
 
 ## Datasets
 
