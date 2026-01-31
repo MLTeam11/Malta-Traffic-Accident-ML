@@ -41,9 +41,9 @@ Malta-Traffic-Accident-ML/
 ├── notebooks/
 │   ├── 1_data_preparation.ipynb          # Data extraction and cleaning
 │   ├── 2_exploratory_analysis.ipynb      # EDA and visualizations
-│   ├── 3a_logistic_regression_naomi.ipynb
-│   ├── 3b_random_forest_giulia.ipynb
-│   ├── 3c_svm_giulia.ipynb
+│   ├── 3a_logistic_regression.ipynb
+│   ├── 3b_random_forest.ipynb
+│   ├── 3c_svm.ipynb
 │   └── 4_results_comparison.ipynb        # Model comparison
 ├── data/
 │   ├── raw/                              # Original datasets (not committed)
